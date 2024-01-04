@@ -8,3 +8,6 @@ def atm_menu(name):
     print("------------------------------------------")
     print("| 3.    Withdraw    | 4.    Logout       |")
     print("------------------------------------------")
+
+
+print("          === Automated Teller Machine ===          ")
