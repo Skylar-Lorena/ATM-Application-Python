@@ -13,3 +13,4 @@ def atm_menu(name):
 print("          === Automated Teller Machine ===          ")
 name = input("Enter name to register: ")
 pin = input("Enter PIN: ")
+balance = 0
