@@ -14,4 +14,10 @@ print("          === Automated Teller Machine ===          ")
 name = input("Enter name to register: ")
 pin = input("Enter PIN: ")
 balance = str(0)
-print(name, "has been registered with a starting balance of $",balance)
+print(name, "has been registered with a starting balance of $", balance)
+
+print("          === Automated Teller Machine ===          ")
+print("LOGIN")
+name_to_validate = input("Enter name:")
+pin_to_validate = input("Enter pin:")
+
